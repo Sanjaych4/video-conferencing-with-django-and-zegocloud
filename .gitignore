@@ -1,0 +1,5 @@
+*.sqlite3
+secrets.txt
+/videoconferencing/__pycache__/*
+/videoconferencing_app/__pycache__/*
+/videoconferencing_app/migrations/*
